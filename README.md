@@ -12,7 +12,7 @@ Real-time financial analysis combining market data APIs, technical indicators, a
 
 ---
 
-## 🎯 Overview
+## Overview
 
 Financial intelligence platform featuring:
 - **Live Market Data**: Real-time stock prices, IPO tracking, economic indicators
@@ -28,7 +28,7 @@ Financial intelligence platform featuring:
 | Education Hub | Structured content | Trading fundamentals, strategies |
 
 
-## 🤖 GenAI Implementation
+## GenAI Implementation
 
 ### 1. Multi-Model LLM System
 
@@ -85,7 +85,7 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 
 ---
 
-## 📊 Technical Stack
+## Technical Stack
 
 **Frontend**: Streamlit (reactive UI), Plotly (charts), TradingView (widgets)
 
@@ -97,25 +97,7 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 
 ---
 
-## 🚀 Quick Start
-
-**Installation:**
-1. Install: `pip install -r requirements.txt`
-2. Configure .env with API keys: FINNHUB, FRED, OPENAI, GEMINI, BRAVE
-3. Add data files: final_news.csv, quantitative_summary.csv
-4. Run: `streamlit run app.py`
-
-**API Keys Required:**
-- Finnhub (stock data)
-- FRED (economic data)
-- OpenAI (GPT models)
-- Google AI (Gemini)
-- Brave Search (news)
-- Slack webhook (optional)
-
----
-
-## ⚙️ Key Features
+## Key Features
 
 ### Data Processing
 - **Real-time Stock Data**: Cascading fallback across 3 providers with validation
@@ -138,17 +120,7 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 
 ---
 
-## 🔐 Security
-
-- API keys in .env (gitignored)
-- Input validation (ticker format, ranges)
-- Rate limiting on external APIs
-- No sensitive data logging
-- Financial disclaimer enforcement
-
----
-
-## 📝 License
+## License
 
 MIT License
 
@@ -158,6 +130,7 @@ MIT License
 
 **Built for Traders • Data Engineers • GenAI Engineers**
 
-⭐ Real-time Analysis • AI-Powered Insights • Production-Ready
+Real-time Analysis • AI-Powered Insights • Production-Ready
 
 </div>
+
