@@ -120,11 +120,6 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 
 ---
 
-## License
-
-MIT License
-
----
 
 <div align="center">
 
@@ -133,4 +128,5 @@ MIT License
 Real-time Analysis • AI-Powered Insights • Production-Ready
 
 </div>
+
 
