@@ -27,6 +27,11 @@ Financial intelligence platform featuring:
 | AI Strategy Assistant | LangChain, GPT-4, Gemini | Chat analysis, portfolio building, comparisons |
 | Education Hub | Structured content | Trading fundamentals, strategies |
 
+## 🎥 Demo
+
+Watch FinFusion in action!
+
+[📥 Download Demo Video](demo.mp4)
 
 ## GenAI Implementation
 
@@ -137,6 +142,7 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 Real-time Analysis • AI-Powered Insights • Production-Ready
 
 </div>
+
 
 
 
