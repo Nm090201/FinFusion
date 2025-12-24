@@ -76,6 +76,15 @@ Financial intelligence platform featuring:
 - Context injection (real-time data + trends + news)
 - Safety constraints (disclaimers, format specifications)
 
+### 6. IPO Notification system 
+Each IPO alert delivers key information directly to your Slack channel:
+
+- Company Name - Full corporate identity
+- Trading Symbol - Ticker for quick lookup
+- IPO Date - Official listing date
+- Price - Initial offering price
+- Shares Offered - Total share volume
+
 ### 6. Error Handling
 
 **Multi-Layer Fallback:**
@@ -128,5 +137,6 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 Real-time Analysis • AI-Powered Insights • Production-Ready
 
 </div>
+
 
 
