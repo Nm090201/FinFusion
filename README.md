@@ -78,7 +78,7 @@ Financial intelligence platform featuring:
 
 ### 6. IPO Notification system 
 Each IPO alert delivers key information directly to your Slack channel:
-
+![IPO Slack Notification](IPO_slack.PNG)
 - Company Name - Full corporate identity
 - Trading Symbol - Ticker for quick lookup
 - IPO Date - Official listing date
@@ -137,6 +137,7 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 Real-time Analysis • AI-Powered Insights • Production-Ready
 
 </div>
+
 
 
 
