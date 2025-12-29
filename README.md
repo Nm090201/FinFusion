@@ -133,13 +133,6 @@ Primary LLM → Alternative LLM → Template Response → Error Message
 ---
 
 
-<div align="center">
-
-**Built for Traders • Data Engineers • GenAI Engineers**
-
-Real-time Analysis • AI-Powered Insights • Production-Ready
-
-</div>
 
 
 
